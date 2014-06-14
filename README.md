@@ -13,11 +13,11 @@
 
 ###百度网盘
 
-[link](http://pan.baidu.com/s/1eQtJilO)
+[link](http://pan.baidu.com/s/1c0b6sy0)
 
 ###Play store
 
 <a href="https://play.google.com/store/apps/details?id=me.biubiubiu.umengpantsoff">
-  <img alt="Get it on Google Play"
-       src="/images/brand/en_generic_rgb_wo_60.png" />
+  <img alt="Android app on Google Play"
+       src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
 </a>
