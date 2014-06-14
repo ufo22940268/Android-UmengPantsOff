@@ -17,8 +17,7 @@
 
 ###Play store
 
-<a href="https://play.google.com/store/apps/details?id= me.biubiubiu.umengpantsoff">
+<a href="https://play.google.com/store/apps/details?id=me.biubiubiu.umengpantsoff">
   <img alt="Get it on Google Play"
        src="/images/brand/en_generic_rgb_wo_60.png" />
 </a>
-
